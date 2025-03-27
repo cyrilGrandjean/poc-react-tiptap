@@ -1,11 +1,11 @@
 import './App.css'
-import Tiptap from './TipTap.tsx';
+import {TipTap2} from './TipTap2.tsx';
 
 function App() {
 
   return (
       <div className="card">
-        <Tiptap></Tiptap>
+          <TipTap2></TipTap2>
       </div>
   )
 }
